@@ -3,6 +3,7 @@
 ## Aviso
 
 Este é o desafio técnico da vaga:
+Farei usando python.
 
 ### Técnica
 
